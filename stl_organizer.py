@@ -1,5 +1,4 @@
-# This file is part of the <file2dir> project (https://github.com/tianyaoh/file2dir_organizer).
-# Copyright (c) <Year> <Your Name>.
+# Copyright (c) 2024 Frank Hu
 #
 # This program is free software: you can redistribute it and/or modify
 # it under the terms of the GNU General Public License as published by
