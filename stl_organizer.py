@@ -184,7 +184,7 @@ if __name__ == "__main__":
     current_dir = os.getcwd() + "\\" + target_dir
 
     #bins to collect files into
-    bins = ["core", "cover", "logo"]
+    bins = ["core", "cover", "logo", "panel"]
     #iterate through the files in the directory
     organized_path = organize_files_via_category(current_dir, extension, categories=bins)
 
