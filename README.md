@@ -30,11 +30,11 @@ target_directory/
         ...
 ```
 
-## Simple Usage （STL)🚀
+## Simple Usage （organize all .stl)🚀
   drop this file **ONE directory above** the directory you want to sort. <br>
   run
 ```
-python file_organizer.py
+cd YOUR_STL_DIRECTORY; python PATH_TO_SCRIPT/file_organizer.py
 ```
 
 ## Targeted Usage🎯
